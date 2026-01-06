@@ -78,9 +78,10 @@ I build:
 <img src="https://raw.githubusercontent.com/chege-5/ktrace/main/screenshots/map.png" width="100%" />
 
 **Capabilities**
-- Real-time tracking  
-- Location-based logic  
-- System optimization  
+- Real-time tracking of coffee
+- Location-based logic
+- System optimization
+- Iot embedded
 
 <p>
   <a href="https://github.com/chege-5/ktrace">
@@ -90,17 +91,30 @@ I build:
 
 ---
 
-## 📊 Developer Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chege-5&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chege-5&theme=tokyonight&hide_border=true"/>
-</p>
+## 🌐 Digital Presence
 
-<p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=chege-5&bg_color=020617&color=0ea5e9&line=38bdf8&point=ffffff&hide_border=true"/>
+### 🧑‍💻 Portfolio Website
+> My central hub — projects, skills, and professional background.
+
+<p>
+  <a href="https://YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
+### 🛒 Shop Website
+> A live e-commerce platform built with performance, security, and UX in mind.
+
+<p>
+  <a href="https://YOUR_SHOP_LINK">
+    <img src="https://img.shields.io/badge/Shop-020617?style=for-the-badge&logo=shopify"/>
+  </a>
+</p>
+
+---
+
 
 ## 🐍 Contribution Snake
 ![snake animation](https://github.com/chege-5/chege-5/blob/output/github-contribution-grid-snake.svg)
