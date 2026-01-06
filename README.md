@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Kihara%20Chege&fontSize=46&fontColor=ffffff&desc=Hacker%20%7C%20Corporate%20Software%20Engineer&descAlignY=65&animation=fadeIn&color=0:020617,100:0ea5e9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Kihara%20Chege&fontSize=46&fontColor=ffffff&desc=Hacker%20%7C%20Corporate%20Software%20Engineer&descAlignY=65&animation=fadeIn&color=0:020617,100:0ea5e9" width="100%" />
+
 
 <!-- HERO -->
 <p align="center">
