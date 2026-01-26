@@ -1,34 +1,35 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Kihara%20Chege&fontSize=46&fontColor=ffffff&desc=Hacker%20%7C%20Corporate%20Software%20Engineer&descAlignY=65&animation=fadeIn&color=0:020617,100:0ea5e9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Kihara%20Chege&fontSize=50&fontColor=ffffff&desc=Full-stack Engineer%20AI Engineer%7C%20Software%20Engineer&descAlignY=65&animation=fadeIn&color=0:020617,100:0ea5e9" width="100%" />
 
 
 <!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=800&lines=Building+secure+systems;Production-ready+software;Hacker+mindset+%7C+Corporate+discipline" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=800&lines=Building secure and AI intergrated systems; Production-ready software; Hacker mindset+%7C+Corporate discipline" />
 </p>
 
 ---
 
-## 🧠 Profile
-I’m **Kihara Chege**, a software developer focused on **real-world systems**, not toy projects.
+## Profile
+I’m **Kihara Chege**, a software developer focused on developing **real-world systems**, and deploying them.
 
 I build:
 - Secure backend systems  
 - Clean, scalable applications  
-- Products that look good **and** work under pressure  
+- Products that look good **and** work under pressure
+- AI intergrated system
+- well optimized codes where even 1ms matters during runtime
 
 ---
 
 ## 🧩 Core Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,firebase,mongodb,mysql,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,django,supabase,firebase,mongodb,mysql,postgresql,linux,git&theme=dark" />
 </p>
 
 ---
 
-## 📦 Featured Systems (Live Projects)
+## Featured Systems
 
-### 🏥 Medicare — Healthcare Management System
-<img src="https://raw.githubusercontent.com/chege-5/medicare/main/screenshots/dashboard.png" width="100%" />
+### Medicare — Healthcare Management System
 
 **What it does**
 - Patient records & workflows  
@@ -43,8 +44,7 @@ I build:
 
 ---
 
-### 🛡 SentinelX — Security & Monitoring System
-<img src="https://raw.githubusercontent.com/chege-5/sentinelX/main/screenshots/overview.png" width="100%" />
+###  SentinelX — Security & Monitoring System
 
 **Focus**
 - Monitoring
@@ -59,8 +59,7 @@ I build:
 
 ---
 
-### 🌱 AgriSmart — Smart Agriculture Platform
-<img src="https://raw.githubusercontent.com/chege-5/agrismart/main/screenshots/home.png" width="100%" />
+### AgriSmart — Smart Agriculture Platform
 
 **Features**
 - Farm data tracking  
@@ -75,8 +74,7 @@ I build:
 
 ---
 
-### 🚚 KTrace — Tracking & Logistics System
-<img src="https://raw.githubusercontent.com/chege-5/ktrace/main/screenshots/map.png" width="100%" />
+### KTrace — Tracking & Logistics System
 
 **Capabilities**
 - Real-time tracking of coffee
@@ -92,13 +90,13 @@ I build:
 
 ---
 
-## 🌐 Digital Presence
+## Digital Presence
 
 ### 🧑‍💻 Portfolio Website
 > My central hub — projects, skills, and professional background.
 
 <p>
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  <a href="https://portfolio-jimmys-projects-631fea8c.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -109,18 +107,11 @@ I build:
 > A live e-commerce platform built with performance, security, and UX in mind.
 
 <p>
-  <a href="https://YOUR_SHOP_LINK">
+  <a href="https://jimmweb.vercel.app/">
     <img src="https://img.shields.io/badge/Shop-020617?style=for-the-badge&logo=shopify"/>
   </a>
 </p>
 
----
-
-
-## 🐍 Contribution Snake
-![snake animation](https://github.com/chege-5/chege-5/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,100:0ea5e9"/>
