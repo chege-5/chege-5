@@ -1,12 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Kihara%20Chege&fontSize=50&fontColor=ffffff&desc=Full-stack Engineer%20AI Engineer%7C%20Software%20Engineer&descAlignY=65&animation=fadeIn&color=0:020617,100:0ea5e9" width="100%" />
-
-
-<!-- HERO -->
+<!-- HERO IMAGE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=800&lines=Building secure and AI intergrated systems; Production-ready software; Hacker mindset+%7C+Corporate discipline" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Kihara%20Chege&fontSize=50&fontColor=ffffff&desc=Full-stack%20Engineer%20AI%20Engineer%7C%20Software%20Engineer&descAlignY=65&animation=fadeIn&color=0:020617,100:0ea5e9" width="100%" />
 </p>
 
----
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&width=800&lines=Building%20secure%20and%20AI%20integrated%20systems&lines=Production-ready%20software&lines=Hacker%20mindset%20%7C%20Corporate%20discipline" />
+</p>
+
 
 ## Profile
 I’m **Kihara Chege**, a software developer focused on developing **real-world systems**, and deploying them.
