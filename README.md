@@ -4,9 +4,11 @@
 </p>
 
 <!-- TYPING SVG -->
+<!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&width=800&lines=Building%20secure%20and%20AI%20integrated%20systems&lines=Production-ready%20software&lines=Hacker%20mindset%20%7C%20Corporate%20discipline" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&width=800&lines=Full%20Stack%20Engineer%20%7C%20AI%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Data%20Analyst&lines=Building%20secure%20and%20AI%20integrated%20systems&lines=Production-ready%20software&lines=Hacker%20mindset%20%7C%20Corporate%20discipline&lines=Analyzing%20data%20for%20insights&lines=Designing%20smart%20and%20efficient%20solutions" />
 </p>
+
 
 
 ## Profile
