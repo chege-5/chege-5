@@ -1,145 +1,117 @@
-<!-- HERO -->
+<!-- HERO IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&text=Kihara%20Chege&fontSize=48&fontColor=ffffff&desc=Enterprise%20Security%20Engineer%20%7C%20Backend%20Architect%20%7C%20Security%20Researcher&descAlignY=65&animation=fadeIn&color=0:000000,100:111827" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Kihara%20Chege&fontSize=50&fontColor=ffffff&desc=Full-stack%20Engineer%20%7C%20Software%20Engineer%20%7C%20Cybersecurity&descAlignY=65&animation=fadeIn&color=0:000000,100:0f172a" width="100%" />
+</p>
+
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&width=800&color=00F5FF&lines=Full%20Stack%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Backend%20Focused&lines=Building%20secure%20and%20scalable%20systems&lines=Production-ready%20software&lines=Hacker%20mindset%20%7C%20Corporate%20discipline&lines=Designing%20efficient%20solutions" />
 </p>
 
 ---
 
-## Engineering Identity
+## Profile
+I’m **Kihara Chege**, a software developer focused on developing **real-world systems**, and deploying them.
 
-Software Engineering student focused on secure system architecture, backend scalability, and applied cybersecurity.
-
-I build production-oriented systems with emphasis on:
-
-- Security-first design  
-- Resilient backend engineering  
-- Database integrity and performance  
-- Real-world deployment constraints  
-
-My approach combines enterprise discipline with startup execution speed.
-
----
-
-## Selected Technical Capabilities
-
-**Application Security**
-- Secure authentication flows
-- Password hashing & token validation
-- Role-Based Access Control (RBAC)
-- API protection & request validation
-
-**Backend Engineering**
-- RESTful architecture
-- Database schema modeling
-- Query optimization
-- Logging & monitoring pipelines
-
-**Security Engineering**
-- Threat modeling fundamentals
-- Secure configuration management
-- Input sanitization & validation
-- System auditing concepts
-
-**Infrastructure**
-- Linux-based environments
-- Environment isolation
-- Git workflows
-- Containerization fundamentals
+I build:
+- Secure backend systems  
+- Clean, scalable applications  
+- Products that look good **and** work under pressure
+- AI integrated systems
+- Well optimized code where even 1ms matters during runtime
 
 ---
 
 ## Core Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,django,postgresql,mongodb,linux,git,docker,react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,django,supabase,firebase,mongodb,mysql,postgresql,linux,git&theme=dark" />
 </p>
 
 ---
 
-## Security Research & Applied Exploration
-
-- Studying authentication bypass patterns and mitigation strategies  
-- Analyzing common web vulnerabilities (injection, broken access control, misconfigurations)  
-- Building controlled lab environments for testing secure implementations  
-- Exploring logging integrity and system monitoring design  
-
-This research directly informs how I design backend systems.
-
----
-
-## Highlighted Systems
+## Featured Systems
 
 ### Medicare — Healthcare Management System
-Secure medical workflow platform featuring:
-- RBAC dashboards  
-- Protected authentication  
-- Structured patient data control  
 
-Repository:
-https://github.com/chege-5/medicare
+**What it does**
+- Patient records & workflows  
+- Secure authentication  
+- Role-based dashboards  
 
----
-
-### SentinelX — Monitoring & Security System
-Security-focused monitoring platform with:
-- Alert pipelines  
-- Integrity checks  
-- System visibility controls  
-
-Repository:
-https://github.com/chege-5/sentinelX
-
----
-
-### AgriSmart — Scalable Agriculture Platform
-Backend-driven system designed for:
-- Structured farm data tracking  
-- Performance-optimized queries  
-- Scalable service layers  
-
-Repository:
-https://github.com/chege-5/agrismart
-
----
-
-### KTrace — Intelligent Tracking System
-Tracking and logistics platform featuring:
-- Real-time location logic  
-- IoT data integration  
-- Backend performance optimization  
-
-Repository:
-https://github.com/chege-5/ktrace
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chege-5&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chege-5&layout=compact&theme=github_dark&hide_border=true" />
+<p>
+  <a href="https://github.com/chege-5/medicare">
+    <img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+  </a>
 </p>
 
 ---
 
-## Contribution Activity
+### SentinelX — Security & Monitoring System
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chege-5&theme=github-dark&hide_border=true" />
+**Focus**
+- Monitoring
+- Alerts
+- System integrity  
+
+<p>
+  <a href="https://github.com/chege-5/sentinelX">
+    <img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+  </a>
+</p>
+
+---
+
+### AgriSmart — Smart Agriculture Platform
+
+**Features**
+- Farm data tracking  
+- Productivity insights  
+- Scalable backend  
+
+<p>
+  <a href="https://github.com/chege-5/agrismart">
+    <img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+  </a>
+</p>
+
+---
+
+### KTrace — Tracking & Logistics System
+
+**Capabilities**
+- Real-time tracking of coffee
+- Location-based logic
+- System optimization
+- IoT embedded
+
+<p>
+  <a href="https://github.com/chege-5/ktrace">
+    <img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+  </a>
 </p>
 
 ---
 
 ## Digital Presence
 
-Portfolio  
-https://portfolio-jimmys-projects-631fea8c.vercel.app/
+### Portfolio Website
+<p>
+  <a href="https://portfolio-jimmys-projects-631fea8c.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+  </a>
+</p>
 
-Live Platform  
-https://jimmweb.vercel.app/
+---
+
+### Shop Website
+<p>
+  <a href="https://jimmweb.vercel.app/">
+    <img src="https://img.shields.io/badge/Shop-0f172a?style=for-the-badge&logo=shopify&logoColor=00F5FF"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:111827"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:0f172a"/>
 </p>
