@@ -1,6 +1,6 @@
 <!-- HERO IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Kihara%20Chege&fontSize=50&fontColor=ffffff&desc=Full-stack%20Engineer%20%7C%20Software%20Engineer%20%7C%20Cybersecurity&descAlignY=65&animation=fadeIn&color=0:000000,100:0f172a" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Kihara%20Chege&fontSize=50&fontColor=ffffff&desc=Full-stack%20Engineer%20%7C%20Software%20Engineer%20%7C%20Cybersecurity%20specialist&descAlignY=65&animation=fadeIn&color=0:000000,100:0f172a" width="100%" />
 </p>
 
 <!-- TYPING SVG -->
@@ -11,7 +11,7 @@
 ---
 
 ## Profile
-I’m **Kihara Chege**, a software developer focused on developing **real-world systems**, and deploying them.
+I’m **Kihara Chege**, a software developer focused on developing **real-world systems**,deploying them and **security behind it all**.
 
 I build:
 - Secure backend systems  
@@ -24,14 +24,14 @@ I build:
 
 ## Core Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,django,supabase,firebase,mongodb,mysql,postgresql,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,go,django,supabase,firebase,html,php,mongodb,mysql,postgresql,linux,git&theme=dark" />
 </p>
 
 ---
 
 ## Featured Systems
 
-### Medicare — Healthcare Management System
+### Medicare - Healthcare Management System
 
 **What it does**
 - Patient records & workflows  
@@ -46,7 +46,7 @@ I build:
 
 ---
 
-### SentinelX — Security & Monitoring System
+### SentinelX - Security & Monitoring System
 
 **Focus**
 - Monitoring
@@ -61,7 +61,7 @@ I build:
 
 ---
 
-### AgriSmart — Smart Agriculture Platform
+### AgriSmart - Smart Agriculture Platform
 
 **Features**
 - Farm data tracking  
@@ -76,7 +76,7 @@ I build:
 
 ---
 
-### KTrace — Tracking & Logistics System
+### KTrace - Tracking & Logistics System
 
 **Capabilities**
 - Real-time tracking of coffee
