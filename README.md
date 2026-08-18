@@ -104,7 +104,7 @@ My focus is simple: create software that is clean, reliable, maintainable, fast,
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,c#,ts,go,php,java,cpp,html,css,bash&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,c%23,ts,go,php,java,cpp,html,css,bash&theme=dark" alt="Languages"/>
 
 ### Frontend
 
